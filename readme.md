@@ -1,13 +1,15 @@
-Jaanga Terrain DE15
-===================
+Jaanga Terrain DE15 Read Me
+===========================
 
-Digital elevation heightmaps to an accuracy of fifteen seconds or about 500 meter resolution
+![terrain-de15/20/48.png]( 20/48.png )
 
-Data sourced from Jonathan de Ferranti's [Viewfinder Panorama]( http://www.viewfinderpanoramas.org/dem3.html )
+Digital elevation heightmaps in 16,384 PNG files to an accuracy of fifteen seconds or about 500 meter resolution
+
+Data sourced from Jonathan de Ferranti's [Viewfinder Panorama]( http://www.viewfinderpanoramas.org/Coverage%20map%20viewfinderpanoramas_org15.htm )
 
 Live demo: [Hello World]( http://jaanga.github.io/terrain-viewer/hello-world/r1/hello-world.html )
 
 * Jonathan de Ferranti's 15 second data set in 16,384 PNG files organized in the Open Street Map way
 * About one data point about every 500 meters
 * Data set covers the entire globe
-* Approx 160 MB
+* Approx 836 MB of data
