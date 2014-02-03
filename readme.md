@@ -13,3 +13,12 @@ Live demo: [Hello World]( http://jaanga.github.io/terrain-viewer/hello-world/r1/
 * About one data point about every 500 meters
 * Data set covers the entire globe
 * Approx 836 MB of data
+
+
+Several viewer apps are available from the [Jaanga Terrain Viewer]( https://github.com/jaanga/terrain-viewer ) repository.
+
+## Project Files
+You have two ways of viewing the Jaanga Terrain DE15 files:
+
+* GitHub Pages view: [jaanga.github.io/terrain]( http://jaanga.github.io/terrain-de15/ "view the files as apps." ) <input value="<< You are now probably here." size=28 style="font:bold 12pt monospace;border-width:0;" >  
+* GitHub Source Code view: [github.com/jaanga/terrain]( https://github.com/jaanga/terrain-de15/ "View the files as source code." ) <scan style=display:none ><< You are now probably here.</scan>
